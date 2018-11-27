@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hannah Rittenhouse)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created an interactive page to display the instructions and ingredients in two different recipes.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/hlr16/lesson7_jquery)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to animate a javaScript file.)
+2. (How to navigate the javaScript console in Google Chrome.)
+3. (DOM Manipulation and how that works.)
 
